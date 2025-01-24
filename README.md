@@ -1,5 +1,5 @@
 # game-of-life
-After reading about (Conway's Game of Life)[https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life] I ended up getting really interested in it, and wanted to see if I could implement a basic interactive editor similar to (Golly)[https://golly.sourceforge.io/]. 
+After reading about [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) I ended up getting really interested in it, and wanted to see if I could implement a basic interactive editor similar to [Golly](https://golly.sourceforge.io/). 
 
 For fun, I also wanted to do it with just vanilla JS/HTML/CSS.
 
