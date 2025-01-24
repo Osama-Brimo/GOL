@@ -5,6 +5,8 @@ For fun, I also wanted to do it with just vanilla JS/HTML/CSS.
 
 I ran into many limitations and problems and ended up learning a lot about optimizing for canvas, caching, memoization for expensive calculations, and algorithms as I tried to optimize the editor and generation speeds.
 
+[Try it here](osama-brimo.github.io/GOL/)
+
 ## ✨ Features
 - Wrap-around cooridnates for board
 - Custom board sizes
