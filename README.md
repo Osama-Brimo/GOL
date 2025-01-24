@@ -1,7 +1,7 @@
 # game-of-life
 After reading about [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) I ended up getting really interested in it, and wanted to see if I could implement a basic interactive editor similar to [Golly](https://golly.sourceforge.io/). 
 
-For fun, I also wanted to do it with just vanilla JS/HTML/CSS.
+For fun, I also wanted to do it with just vanilla JS/HTML/CSS, without any help for drawing on canvas. I ended up creating utilities for drawing/redrawing the grid, zooming, etc. from scratch, and had to hook them up logically to a coordinate system.
 
 I ran into many limitations and problems and ended up learning a lot about optimizing for canvas, caching, memoization for expensive calculations, and algorithms as I tried to optimize the editor and generation speeds.
 
@@ -11,6 +11,7 @@ I ran into many limitations and problems and ended up learning a lot about optim
 - Wrap-around cooridnates for board
 - Custom board sizes
 - Pause/Resume
+- An overlay canvas layer that shows info to user
 - 'Drawing' tools that enable you to draw and erase cells freely on the canvas, and save your drawings
 - 'Smart' Canvas selection with snapping (select areas of the board)
 - Keyboard shortcuts
