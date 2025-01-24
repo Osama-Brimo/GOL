@@ -10,6 +10,8 @@ I ran into many limitations and problems and ended up learning a lot about optim
 - Custom board sizes
 - Pause/Resume
 - 'Drawing' tools that enable you to draw and erase cells freely on the canvas, and save your drawings
+- 'Smart' Canvas selection with snapping (select areas of the board)
+- Keyboard shortcuts
 - Memoization, caching, and algorithm optimizations like quad trees for faster generation
 - Custom ruleboxes (Selections of the board that use different rules in parallel)
 - User defined rulesets
