@@ -1,7 +1,3 @@
-/// --------- ! to do :
-/// clean up all doomed spaces and all birth spaces.
-/// maybe figure out how to add memoization and rewinding.
-
 import { utils } from "./utilities.js";
 
 let LtLPresets = {
